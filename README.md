@@ -3,8 +3,8 @@
   
 
 # 팀원소개
-  김성현(PL): gimsh7131@gmail.com
-  이혜은(디자이너): dlgpdms6424@gmail.com
+  김성현(PL): gimsh7131@gmail.com<br>
+  이혜은(디자이너): dlgpdms6424@gmail.com<br>
   조해연(퍼블리셔): badahaeyeoncho@gmail.com
 
 # UI
