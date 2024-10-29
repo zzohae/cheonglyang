@@ -1,25 +1,27 @@
-# 청량마켓
-  팀작업으로 제작된 플랫폼 프로젝트(이커머스)
-  
+# 청량마켓몰
+  그린컴퓨터아트학원 신도림 K-디지털 트레이닝 3기
+  플랫폼 솔루션을 이용한 이커머스 홈페이지 제작 프로젝트
+  2024.09.06 ~ 2024.10.29 (약 8주)
+
+# 기술적 환경
+  HTML5, CSS3, Javascript, Jquery-latest
+  호스팅: 아이웹 솔루션
+  플러그인: Swipe-Slider
+
+# 제작노트
+  ftp 비공개로 인한 관리자페이지에서 컨텐츠 외의 모든 제작
+  => 스타일 우선순위를 활용한 협업작업
+     1. !important 최소화
+     2. float를 display:flex;로 교체
+     3. 컨텐츠의 최상위 ID(블럭 고유 ID)로 선택자 시작
+     3. 접근할 수없는 컨텐츠는 자바스크립트로 생성하여 삽입
+        (클래스 지정하여 스타일충돌방지)
 
 # 팀원소개
-  - 김성현(PL): gimsh7131@gmail.com
-  - 이혜은(디자이너): dlgpdms6424@gmail.com
-  - 조해연(퍼블리셔): badahaeyeoncho@gmail.com
+  - 📊 김성현(PL): gimsh7131@gmail.com
+  - 🎨 이혜은(디자이너): dlgpdms6424@gmail.com
+  - 🛠️ 조해연(퍼블리셔): badahaeyeoncho@gmail.com
 
-# UI
-  피그마주소: https://www.figma.com/design/hODaA3aqcUvTjZta1lzVWf/%5BKDT%5D-%ED%94%8C%EB%9E%AB%ED%8F%BC%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80?node-id=330-118&t=1GiwVMGt3VSUXdJ3-1
-
-# Brand choice
-  1960년대부터 전통이 이어져온 서울 동북권 최대 규모의 재래시장 온라인몰.<br>
-  일반적인 재래시장과는 달리 농수산물 및 청과물 도매 시장을 함께 운영 중이다.<br>
-  2019년 후반기 서울시 도시재생활 성화지역으로 선정되는 등 발전을 위해 힘을 써왔지만,
-  코로나 이후 활력이 급격히 감소하였고, 시장의 활력 회복 및 젊은층 고객 확보를 위해 '청량마켓'이라는 기존 유통망을 이용한 온라인 판매 사업을 개시하였다.
-
-# Persona
-  - 저렴한 가격으로 온라인 식품 구매를 원하는 20, 30 젊은 세대 1인 가구
-  - 기존 재래시장 이용 중인 중장~노년층의 온라인 유입
-  - 한국의 전통을 체험하고픈 외국인 관광객
-
-# Use
- 추후 추가
+# 프로토타입 & 기획 & UI
+  피그마: https://www.figma.com/design/hODaA3aqcUvTjZta1lzVWf/%5BKDT%5D-%ED%94%8C%EB%9E%AB%ED%8F%BC%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80?node-id=330-118&t=1GiwVMGt3VSUXdJ3-1
+  피그잼: https://www.figma.com/board/3dJpvmSeKiluS5Hgj3HlW9/%EC%B2%AD%EB%9F%89%EB%A7%88%EC%BC%93%EB%AA%B0?node-id=0-1&node-type=canvas&t=hYW5TnWQMPCLvpyd-0
