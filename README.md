@@ -2,6 +2,7 @@
   그린컴퓨터아트학원 신도림 K-디지털 트레이닝 3기  
   플랫폼 솔루션을 이용한 이커머스 홈페이지 제작 프로젝트  
   2024.09.06 ~ 2024.10.29 (약 8주)  
+  https://i-web.kr/green08/  
 
 # 기술적 환경
   HTML5, CSS3, Javascript, Jquery-latest  
